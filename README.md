@@ -1,7 +1,3 @@
-Here's a comprehensive documentation for your GitHub project in English. You can use this as your `README.md` file:
-
----
-
 # Multi-Restaurant Food Ordering Application  
 
 Welcome to the Multi-Restaurant Food Ordering Application! This project was developed as part of the course "Laravel 11 Build Multi Restaurant Food Order Application A-Z" and enhanced with additional features to provide a comprehensive system for managing multiple restaurants, their orders, and customer interactions.
@@ -86,7 +82,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 If you have any questions or suggestions, feel free to reach out:  
 - Email: [mohamedahmeddev333@gmail.com](mailto:mohamedahmeddev333@gmail.com)  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ahmed-354a572a3)  
-
----
-
-Let me know if you'd like to tweak any section or add more details! 😊
