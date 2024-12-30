@@ -73,7 +73,7 @@ Welcome to the Multi-Restaurant Food Ordering Application! This project was deve
 - Use Stripe for secure online payments or opt for cash on delivery.  
 
 ## Video Demo  
-Check out the full demo of the application [here](#).  
+Check out the full demo of the application [https://www.linkedin.com/posts/mohamed-ahmed-354a572a3_laravel-php-multirestaurantapp-activity-7279552412359512065-16Vm?utm_source=share&utm_medium=member_android](#).  
 
 ## License  
 This project is open-source and available under the [MIT License](LICENSE).  
