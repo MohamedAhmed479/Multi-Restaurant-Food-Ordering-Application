@@ -37,7 +37,7 @@ Welcome to the Multi-Restaurant Food Ordering Application! This project was deve
 ### Installation Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/multi-restaurant-app.git  
+   git clone https://github.com/MohamedAhmed479/Multi-Restaurant-Food-Ordering-Application.git  
    cd multi-restaurant-app  
    ```  
 
